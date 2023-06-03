@@ -1,3 +1,3 @@
-module github.com/pkg-id/go-pkg-template
+module github.com/pkg-id/httpmid
 
 go 1.19
