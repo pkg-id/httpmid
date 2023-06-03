@@ -1,0 +1,1 @@
+package go_pkg_template
